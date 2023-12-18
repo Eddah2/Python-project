@@ -18,4 +18,4 @@ iv) Models training and testing
 Amongst 9 models which were trained,Cat boost classifier had the highest accuracy(87.37%).Followed closely bt XGBoost
 Classifier(87.17%),Gradient boosting Classief(87%),Random Forest(86.93%)
 
-Other models had the accuracy around 80%, these models are Logistic Regression,Support Vector Machine,Artificial Neural Network,KNearest Neighbours and Gaussian Naive Bayes
+Other models had accuracy around 80%, these models are Logistic Regression,Support Vector Machine,Artificial Neural Network,KNearest Neighbours and Gaussian Naive Bayes
